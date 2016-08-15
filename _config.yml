@@ -1,0 +1,14 @@
+layout_spectrum: 0.610202613286674
+typography_spectrum: 0.11483533983118832
+color:
+  brandStrength: 0.41553610656410456
+  lightness: 0.9895939361304045
+  saturation: 0.48522620811127126
+  rhythmicContrast: 0.6848809013608843
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: cantodorei
