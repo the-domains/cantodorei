@@ -1,4 +1,3 @@
-layout_spectrum: 0.610202613286674
 typography_spectrum: 0.11483533983118832
 color:
   brandStrength: 0.41553610656410456
@@ -11,4 +10,6 @@ color:
     - '#CCA383'
     - '#305B64'
     - '#D8E2CA'
+layout_spectrum: 0.610202613286674
 name: cantodorei
+title: Chácara Canto do Rei
