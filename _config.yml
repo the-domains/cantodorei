@@ -12,9 +12,5 @@ color:
     - '#D8E2CA'
 layout_spectrum: 0.610202613286674
 name: cantodorei
-navigation:
-  - name: Chácara Canto do Rei
-    url: 'https://facebook.com/cantodorei'
-    type: external
 title: Chácara Canto do Rei
 description: 'Pousada, Restaurante & Ecologia'
