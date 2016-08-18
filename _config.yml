@@ -12,5 +12,9 @@ color:
     - '#D8E2CA'
 layout_spectrum: 0.610202613286674
 name: cantodorei
+navigation:
+  - name: Aloha
+    id: 329f95bb-f6bf-42c8-b3ec-2f81b5a7fefb
+    type: content
 title: Chácara Canto do Rei
 description: 'Pousada, Restaurante & Ecologia'
