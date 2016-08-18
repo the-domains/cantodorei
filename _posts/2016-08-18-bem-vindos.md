@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-08-18T19:35:08.818Z'
+datePublished: '2016-08-18T19:38:36.777Z'
+sourcePath: _posts/2016-08-18-bem-vindos.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-18T19:35:06.713Z'
+dateModified: '2016-08-18T19:38:34.762Z'
 title: Bem vindos!
-publisher: {}
+publisher:
+  name: Diego Siqueira
 description: Bem vindos! Essa é a nossa nova página.
-sourcePath: _posts/2016-08-18-bem-vindos.md
-hasPage: true
 starred: false
 url: bem-vindos/index.html
 _type: Article
@@ -18,3 +19,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa6c486f-fe78-4c34-80bb-61ac5143a3c0.jpg)
 
 Bem vindos! Essa é a nossa nova página.
+
+aasddddddddddddddddasdasd asd sa sad asd asd asd as
