@@ -16,5 +16,8 @@ navigation:
   - name: Aloha
     id: 329f95bb-f6bf-42c8-b3ec-2f81b5a7fefb
     type: content
+  - name: Serviços
+    id: c3c1c26f-1cd0-41a9-9f9c-13a391d04e64
+    type: content
 title: Chácara Canto do Rei
 description: 'Pousada, Restaurante & Ecologia'
