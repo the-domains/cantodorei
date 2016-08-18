@@ -19,5 +19,8 @@ navigation:
   - name: Contato
     id: c3c1c26f-1cd0-41a9-9f9c-13a391d04e64
     type: content
+  - name: Serviços
+    id: effb5570-d5ae-4d90-9303-51db0e4384c3
+    type: content
 title: Chácara Canto do Rei
 description: 'Pousada, Restaurante & Ecologia'
