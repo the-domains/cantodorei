@@ -17,8 +17,8 @@ description: >-
 inLanguage: pt
 app_links: []
 title: Mexicanos transformam lixo plástico em casas de baixo custo
-datePublished: '2016-08-18T22:05:10.029Z'
-dateModified: '2016-08-18T22:05:09.369Z'
+datePublished: '2016-08-18T22:05:26.775Z'
+dateModified: '2016-08-18T22:05:26.180Z'
 via: {}
 sourcePath: >-
   _posts/2016-08-18-mexicanos-transformam-lixo-plastico-em-casas-de-baixo-custo.md
