@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chácara Canto do Rei]]></title>
+        <description><![CDATA[Chácara Canto do Rei]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 21:05:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mexicanos transformam lixo plástico em casas de baixo custo]]></title>
+            <description><![CDATA[<article><h1>Mexicanos transformam lixo plástico em casas de baixo custo</h1><p>O resultado é uma casa com isolamento acústico e térmico e que ainda resiste às intempéries climáticas. 18 de agosto de 2016 * Atualizado às 13 : 00 A startup pode alterar o modo pelo qual as pessoas fazem suas residências.</p></article>]]></description>
+            <link>http://ciclovivo.com.br/noticia/mexicanos-transformam-lixo-plastico-em-casas-de-baixo-custo/</link>
+            <guid isPermaLink="false">c3c1c26f-1cd0-41a9-9f9c-13a391d04e64</guid>
+            <pubDate>Thu, 18 Aug 2016 21:05:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
