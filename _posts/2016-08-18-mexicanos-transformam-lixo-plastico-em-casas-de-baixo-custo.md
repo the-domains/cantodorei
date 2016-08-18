@@ -16,18 +16,15 @@ description: >-
   startup pode alterar o modo pelo qual as pessoas fazem suas residências.
 inLanguage: pt
 app_links: []
-isBasedOnUrl: >-
-  http://ciclovivo.com.br/noticia/mexicanos-transformam-lixo-plastico-em-casas-de-baixo-custo/
 title: Mexicanos transformam lixo plástico em casas de baixo custo
-datePublished: '2016-08-18T21:05:32.113Z'
-dateModified: '2016-08-18T21:05:05.318Z'
+datePublished: '2016-08-18T22:05:10.029Z'
+dateModified: '2016-08-18T22:05:09.369Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-18-mexicanos-transformam-lixo-plastico-em-casas-de-baixo-custo.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: mexicanos-transformam-lixo-plastico-em-casas-de-baixo-custo/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
