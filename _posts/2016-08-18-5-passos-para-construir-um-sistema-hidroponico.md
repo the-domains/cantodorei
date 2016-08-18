@@ -17,17 +17,14 @@ description: >-
   cultivo de plantas em água sem o uso de solo.
 inLanguage: pt
 app_links: []
-isBasedOnUrl: >-
-  http://ciclovivo.com.br/noticia/5-passos-para-construir-um-sistema-hidroponico/
 title: 5 passos para construir um sistema hidropônico
-datePublished: '2016-08-18T21:05:35.627Z'
-dateModified: '2016-08-18T19:53:50.880Z'
+datePublished: '2016-08-18T22:05:58.860Z'
+dateModified: '2016-08-18T22:05:58.253Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-5-passos-para-construir-um-sistema-hidroponico.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: 5-passos-para-construir-um-sistema-hidroponico/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
