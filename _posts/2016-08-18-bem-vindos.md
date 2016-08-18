@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-18T19:32:54.613Z'
+datePublished: '2016-08-18T19:35:08.818Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-15T23:04:21.581Z'
+dateModified: '2016-08-18T19:35:06.713Z'
 title: Bem vindos!
 publisher: {}
 description: Bem vindos! Essa é a nossa nova página.
-starred: false
 sourcePath: _posts/2016-08-18-bem-vindos.md
-_type: Blurb
+hasPage: true
+starred: false
+url: bem-vindos/index.html
+_type: Article
 
 ---
 # Bem vindos!
